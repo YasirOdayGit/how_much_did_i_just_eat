@@ -1,6 +1,6 @@
 # How much did I just eat?
 
-A flutter project that helps users figure out the calories and nutrients. The daily recommended calories intake is 2000 calories according to the NHS (1), 40% of those are carbs, 30% fat and 30% protein. The recommended daily intake of sodium is 2300mg according to the CDC (2).
+A flutter project that helps users figure out the calories and macros. The daily recommended calories intake is 2000 calories according to the NHS (1), 40% of those are carbs, 30% fat and 30% protein. The recommended daily intake of sodium is 2300mg according to the CDC (2).
 
 # Empty Screen
 ![5cb97998-3890-44e0-a0c4-9a1a424f79df](https://user-images.githubusercontent.com/95036084/160675394-f16c84c1-68ac-4428-a68b-0cd62aabf9e0.jpg)
