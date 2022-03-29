@@ -5,4 +5,4 @@ TextStyle boldStyleBig =
     TextStyle(color: textColor, fontWeight: FontWeight.bold, fontSize: 20);
 
 TextStyle boldStyleSmall =
-    TextStyle(color: textColor, fontWeight: FontWeight.bold, fontSize: 12);
+    TextStyle(color: textColor, fontWeight: FontWeight.bold, fontSize: 16);
